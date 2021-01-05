@@ -1,0 +1,17 @@
+.parent-class {
+  display: flex;
+  flex-direction: row;
+  height: 600px;
+  flex-wrap: wrap;
+  align-content: space-between;
+  justify-content: space-around;
+}
+.block-sec {
+  height: 200px;
+  width: 47%;
+  margin-left: 10px;
+}
+.help-menu-list {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
